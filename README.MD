@@ -7,7 +7,6 @@ This course explores the concepts and algorithms at the foundation of modern art
 
 ## [My Certificate](https://certificates.cs50.io/3c817364-e1ca-4aa4-ba2c-f642db378640.pdf?size=letter "CS50 AI")
 
-## TODO : add the lectures notes
 
 - Lecture 0: Search
     - Notes:
